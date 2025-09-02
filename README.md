@@ -1,17 +1,17 @@
-🍴 Food Management System 
+**🍴 Food Management System **
 📌 Overview  
 This project is a Food Management Dashboard built using React + Vite.  
 It enables administrators to manage food items, categories, and customer orders with a responsive and user-friendly interface.  
 The dashboard is designed for restaurants, food delivery platforms, and online ordering systems.  
 
-⚙️ Tech Stack  
+**⚙️ Tech Stack  **
 - ⚛️ Frontend:React (Vite for fast builds)  
 - 🎨 Styling: CSS  
 - 🛣️ Routing:React Router  
 - 🔔 Notifications:React Toastify  
 - 🖼️ Assets:Custom icons for food, orders, and profile  
 
-🚀 Features  
+**🚀 Features ** 
 ✅ Admin Dashboard with Sidebar & Navbar  
 ✅ Add New Food Items with details & images  
 ✅ View & Manage Food Items (Edit/Delete options extendable)  
@@ -19,31 +19,31 @@ The dashboard is designed for restaurants, food delivery platforms, and online o
 ✅ Responsive UI (Desktop & Mobile)  
 ✅ Super-fast builds & hot reload using Vite  
 
-📊 Pages  
+**📊 Pages  **
 - Dashboard→ Overview of activity  
 - Add Page → Add new food items  
 - List Page → View and manage menu items  
 - Orders Page → Handle customer orders  
 
-👨‍🍳 Customer (Frontend)  
+**👨‍🍳 Customer (Frontend)  **
 ✅ Browse food items  
 ✅ Add to cart & checkout  
 ✅ Place orders  
 ✅ User authentication  
 
-🛠️ Admin (Dashboard)  
+**🛠️ Admin (Dashboard)  **
 ✅ Manage food items (Add / Edit / Delete)  
 ✅ View all food items in a list  
 ✅ Handle customer orders (Approve / Reject)  
 ✅ Dashboard with responsive sidebar & navbar  
 
-⚡ Backend  
+**⚡ Backend  **
 ✅ REST API for orders, food items, users  
 ✅ JWT authentication  
 ✅ MongoDB database integration  
 
 
-📂 Project Structure  
+**📂 Project Structure  **
 food/
 ├── frontend/ # Customer-facing React app
 │ ├── src/ # Components, pages, assets
